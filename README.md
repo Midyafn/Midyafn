@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-My name is *Midya Frangginie*
+- 😄 My name is *Midya Frangginie*
 
-I'm a college student majoring in Information Technology that currently learning about cloud computing. 
+- 🌱I'm a college student majoring in Information Technology that currently learning about cloud computing. 
 
-Find me on [Linkedin](https://www.linkedin.com/in/ni-luh-gede-midya-frangginie-195594200/)
+- 🔭Find me on [Linkedin](https://www.linkedin.com/in/ni-luh-gede-midya-frangginie-195594200/)
 
 <p align="left">
 <a href="https://github.com/Midyafn">
