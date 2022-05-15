@@ -5,7 +5,7 @@
 - 🌱I'm a college student majoring in Information Technology that currently learning about web, data, and mobile programming
 
 - 🔭Find me on [Linkedin](https://www.linkedin.com/in/ni-luh-gede-midya-frangginie-195594200/)
-
+<!--
 <p align="left">
 <a href="https://github.com/Midyafn">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Midyafn&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -13,7 +13,6 @@
 </a>
 </p>
 
-<!--
 **Midyafn/Midyafn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
