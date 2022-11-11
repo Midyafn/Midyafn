@@ -2,7 +2,7 @@
 
 - 😄 My name is *Midya Frangginie*
 
-- 🌱I'm a college student majoring in Information Technology that currently learning about web, data, and mobile programming
+- 🌱 A learner
 
 - 🔭Find me on [Linkedin](https://www.linkedin.com/in/ni-luh-gede-midya-frangginie-195594200/)
 <!--
